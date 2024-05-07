@@ -1,0 +1,45 @@
+body {
+  background-color: #1B212C;
+}
+
+.blocoPrincipal {
+  width: 600px;
+  height: 1000px;
+  border: 1px solid white;
+  color: whitesmoke;
+}
+
+.titulo {
+  background-color: whitesmoke;
+  color: black;
+  height: 35px;
+  border-radius: 10px;
+}
+
+.titulo-2 {
+  background-color: whitesmoke;
+  color: black;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+.btns {
+  border-radius: 5px;
+}
+
+.largura {
+  width: 99%;
+  overflow: hidden;
+  height: auto;
+}
+.valores {
+  width: 600px;
+}
+
+.num1 {
+  border-radius: 10px;
+}
+
+textarea {
+  overflow: hidden;
+}
